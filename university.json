@@ -1,0 +1,10 @@
+{
+  "name": "Національний Університет",
+  "head": {
+    "firstName": "Іван",
+    "lastName": "Петров",
+    "patronymic": "Іванович",
+    "sex": "MALE"
+  },
+  "faculties": []
+}
